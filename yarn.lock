@@ -10,7 +10,7 @@ __metadata:
   resolution: "@jujulego/flow@workspace:."
   dependencies:
     "@types/lodash.flatten": 4.4.6
-    "@types/node": 14.18.3
+    "@types/node": 14.18.12
     lodash.flatten: ^4.4.0
     typescript: 4.5.4
   languageName: unknown
@@ -32,10 +32,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:14.18.3":
-  version: 14.18.3
-  resolution: "@types/node@npm:14.18.3"
-  checksum: 72275674a25b0e9d4fe213449d874fd3e8280a84d911a359d298d68b84550b6a3210d484dc2662b8eb6e0b1829f4dac5e60cb7c01ce78878b316305c798d1cbb
+"@types/node@npm:14.18.12":
+  version: 14.18.12
+  resolution: "@types/node@npm:14.18.12"
+  checksum: 8a0273caa0584020adb8802784fc7d4f18f05e6c205335b7f3818a91d6b0c22736b9f51da3428d5bc54076ad47f1a4d6d57990a3ce8489a520ac66b2b3ff24bc
   languageName: node
   linkType: hard
 
