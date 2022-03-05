@@ -26,6 +26,7 @@
     "maintained node versions and node >= 14"
   ],
   "scripts": {
+    "lint": "eslint {src,tests}/**/*.*",
     "clean": "gulp clean",
     "build": "gulp build",
     "watch": "gulp watch"
@@ -43,7 +44,10 @@
     "@types/gulp-sourcemaps": "0.0.35",
     "@types/lodash.flatten": "4.4.6",
     "@types/node": "14.18.12",
+    "@typescript-eslint/eslint-plugin": "5.13.0",
+    "@typescript-eslint/parser": "5.13.0",
     "del": "6.0.0",
+    "eslint": "8.9.0",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
     "gulp-cli": "2.3.0",
