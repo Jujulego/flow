@@ -106,6 +106,7 @@ jobs:
         run: |
           git config --global user.name 'Boobrie'
           git config --global user.email 'boobrie@users.noreply.github.com'
+
       - name: Apply version update
         id: version-apply
         run: |
@@ -123,10 +124,12 @@ jobs:
             git tag $version
             echo "::set-output name=need-release::true"
           fi
+
       - name: Push
         run: |
           git push
           git push --tags
+
       - name: Publish
         run: yarn npm publish --access public --tolerate-republish
         env:
