@@ -1459,7 +1459,7 @@ __metadata:
     "@types/gulp": 4.0.9
     "@types/gulp-babel": 6.1.30
     "@types/gulp-sourcemaps": 0.0.35
-    "@types/lodash.flatten": 4.4.6
+    "@types/lodash.flatten": 4.4.7
     "@types/node": 16.11.31
     "@typescript-eslint/eslint-plugin": 5.17.0
     "@typescript-eslint/parser": 5.17.0
@@ -1622,12 +1622,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash.flatten@npm:4.4.6":
-  version: 4.4.6
-  resolution: "@types/lodash.flatten@npm:4.4.6"
+"@types/lodash.flatten@npm:4.4.7":
+  version: 4.4.7
+  resolution: "@types/lodash.flatten@npm:4.4.7"
   dependencies:
     "@types/lodash": "*"
-  checksum: f37c2afb328717f8cc4d3523d0c894c2241c8f56edb0a141b0a0034ba2612eb3b5359e8604e2072ea8858f8080a0e9bdb1e4528e66ca90118f287bbc29448c50
+  checksum: 57256262754e9082c25ddcaa28c9e27b215a70716790f1d47550b0bab608b2ec5fd4786ba7d109161b8d4e6c8e0b4dbc2356111d3d8415e7934d8616ee64d286
   languageName: node
   linkType: hard
 
