@@ -35,9 +35,9 @@
     "lodash.flatten": "^4.4.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.9",
+    "@babel/core": "7.17.10",
     "@babel/plugin-proposal-class-properties": "7.16.7",
-    "@babel/preset-env": "7.16.11",
+    "@babel/preset-env": "7.17.10",
     "@babel/preset-typescript": "7.16.7",
     "@types/gulp": "4.0.9",
     "@types/gulp-babel": "6.1.30",
