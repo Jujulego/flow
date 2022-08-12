@@ -43,7 +43,7 @@
     "@types/gulp-babel": "6.1.30",
     "@types/gulp-sourcemaps": "0.0.35",
     "@types/lodash.flatten": "4.4.7",
-    "@types/node": "16.11.43",
+    "@types/node": "16.11.48",
     "@typescript-eslint/eslint-plugin": "5.30.6",
     "@typescript-eslint/parser": "5.30.6",
     "del": "6.1.1",
