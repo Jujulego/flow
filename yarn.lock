@@ -1834,7 +1834,7 @@ __metadata:
     "@babel/preset-typescript": 7.18.6
     "@types/gulp": 4.0.9
     "@types/gulp-babel": 6.1.30
-    "@types/gulp-sourcemaps": 0.0.35
+    "@types/gulp-sourcemaps": 0.0.38
     "@types/lodash.flatten": 4.4.7
     "@types/node": 16.18.11
     "@typescript-eslint/eslint-plugin": 5.37.0
@@ -1970,13 +1970,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/gulp-sourcemaps@npm:0.0.35":
-  version: 0.0.35
-  resolution: "@types/gulp-sourcemaps@npm:0.0.35"
+"@types/gulp-sourcemaps@npm:0.0.38":
+  version: 0.0.38
+  resolution: "@types/gulp-sourcemaps@npm:0.0.38"
   dependencies:
     "@types/node": "*"
     "@types/vinyl": "*"
-  checksum: 585a772ca6747647ef01d064b1c120b106246d7071868dab6d463a964e50ed028d61a46a1e4489277a4ff0529074a00259e2017ab8332cf66737b8c8398fb648
+  checksum: a840c302c209a84a21e18f485419fb88d5d671833cedc8a15b1f0a45ae889ee75daa50bdc48cb0565c47c8106a31550a9a38558a7f09a2c56c324da6f7c77633
   languageName: node
   linkType: hard
 
