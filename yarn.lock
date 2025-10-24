@@ -1832,7 +1832,7 @@ __metadata:
     "@babel/plugin-proposal-class-properties": 7.18.6
     "@babel/preset-env": 7.20.2
     "@babel/preset-typescript": 7.18.6
-    "@types/gulp": 4.0.9
+    "@types/gulp": 4.0.18
     "@types/gulp-babel": 6.1.30
     "@types/gulp-sourcemaps": 0.0.35
     "@types/lodash.flatten": 4.4.7
@@ -1980,14 +1980,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/gulp@npm:4.0.9":
-  version: 4.0.9
-  resolution: "@types/gulp@npm:4.0.9"
+"@types/gulp@npm:4.0.18":
+  version: 4.0.18
+  resolution: "@types/gulp@npm:4.0.18"
   dependencies:
-    "@types/undertaker": "*"
+    "@types/node": "*"
+    "@types/undertaker": ">=1.2.6"
     "@types/vinyl-fs": "*"
     chokidar: ^3.3.1
-  checksum: d0fe14866cc2c233c4116941f7c275b1b907d5b40de8bf92899e4152979cd6c51a71d407ac752f0434a7ed95a97979f61c1dd05b82fdee73088809476f8d9f85
+  checksum: adc075665dc911fbdf635349181b7271060d97401212caead2bb85dbe1cd8e5d8e9fdb2d70d24890564529aba92123eaef31f29dcf36ffc8108a2ff826d4f201
   languageName: node
   linkType: hard
 
@@ -2042,14 +2043,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/undertaker@npm:*":
-  version: 1.2.7
-  resolution: "@types/undertaker@npm:1.2.7"
+"@types/undertaker@npm:>=1.2.6":
+  version: 1.2.12
+  resolution: "@types/undertaker@npm:1.2.12"
   dependencies:
     "@types/node": "*"
     "@types/undertaker-registry": "*"
     async-done: ~1.3.2
-  checksum: 7aac80fc81c8ebf0c5e6bc0c4395b7d6f67794ff7f82c9b0ff2776133da12e806598839a00e833fcf785da87f6064f46b8f12718dab1887f4647d05b6eee9b4a
+  checksum: 450244726afc7cbc00c42b4c2c4a0a27b571a95ffdc16c9dc32780fed93b5ca48af26d77f0d416291e497668fdaf44ffa988413d0d0bdb5a6f3dfba8b101676c
   languageName: node
   linkType: hard
 
